@@ -1,0 +1,136 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 562px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 49px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 248px;
+  height: 333px;
+  margin: 42px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 33px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 563px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 334px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 413px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-bottom: 0;
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin-top: 20px;
+}
+
+.u-section-2 .u-table-1 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.u-block-f4ca-11 {
+  height: 46px;
+}
+
+.u-section-2 .u-table-cell-1 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-table-cell-2 {
+  font-weight: 700;
+}
+
+.u-block-f4ca-22 {
+  height: 46px;
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 22px auto 0 0;
+}
+
+.u-section-3 .u-table-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-block-2696-11 {
+  height: 46px;
+}
+
+.u-section-3 .u-table-cell-1 {
+  font-weight: 700;
+}
+
+.u-block-2696-22 {
+  height: 46px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 400;
+  margin-bottom: 0;
+  text-decoration: underline !important;
+}
+
+.u-section-4 .u-table-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-block-b847-11 {
+  height: 46px;
+}
+
+.u-section-4 .u-table-cell-1 {
+  font-weight: 700;
+}
+
+.u-block-b847-30 {
+  height: 46px;
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 400;
+  margin-bottom: 60px;
+}.u-section-6 .u-sheet-1 {
+  min-height: 705px;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 400;
+  margin: 20px 0 60px;
+}
